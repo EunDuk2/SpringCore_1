@@ -1,5 +1,7 @@
 # 🌱 Spring 핵심 원리 - 기본편 학습 기록
 
+<a href="https://vivid-swallow-267.notion.site/2c1b1da1d9f98017b6d2f5a6353b7c58?source=copy_link" target="_blank">노션 학습노트 링크</a>
+
 
 <img width="1325" height="844" alt="certificate" src="https://github.com/user-attachments/assets/b89a0b41-f387-4867-ad85-5adbd010ee70" />
 
@@ -66,4 +68,5 @@
   - `@PostConstruct`  
   - `@PreDestroy`  
   로 지정한다.
+
 
